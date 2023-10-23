@@ -6,13 +6,14 @@ Le projet "Gestion des Machines et des Salles" constitue une application informa
 À travers cette interface graphique, les utilisateurs disposent d'une solution pratique pour ajouter, modifier, supprimer et consulter des informations relatives aux machines et aux salles. 
 L'objectif de cette interface graphique est de superviser à la fois les salles et les appareils au moyen d'une interface utilisateur graphique basée sur Swing. Elle utilise Hibernate pour la couche de persistance et repose sur RMI (Remote Method Invocation) pour la communication entre le client et le serveur. Le projet est divisé en deux composants : le serveur RMI et le client RMI.
 
-![Capture d’écran 2023-10-23 173902](https://github.com/sana7867/MachineSalle/assets/147515885/1a431978-42f1-4881-9738-ebcb9518d324)
-
 
 ![Capture d’écran 2023-10-23 173959](https://github.com/sana7867/MachineSalle/assets/147515885/54bda2a3-12b8-4642-88ca-5392da486276)
 
 
 ![Capture d’écran 2023-10-23 174659](https://github.com/sana7867/MachineSalle/assets/147515885/130a39fa-01fb-495e-94b4-3ed9899324f3)
+
+
+![Capture d’écran 2023-10-23 173902](https://github.com/sana7867/MachineSalle/assets/147515885/1a431978-42f1-4881-9738-ebcb9518d324)
 
 
 ![Capture d’écran 2023-10-23 173122](https://github.com/sana7867/MachineSalle/assets/147515885/d7297eac-2831-41aa-9a44-6ad871c85a66)
