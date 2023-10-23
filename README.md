@@ -34,16 +34,14 @@ L'objectif de cette interface graphique est de superviser à la fois les salles 
 ![Capture d’écran 2023-10-23 173306](https://github.com/sana7867/MachineSalle/assets/147515885/df6765bf-2af4-4940-8c47-01d40eea87bf)
 
 
+![Capture d’écran 2023-10-23 173334](https://github.com/sana7867/MachineSalle/assets/147515885/54006471-57df-47e2-9392-1a073715f788)
 
 
-# Rechercher:
+Rechercher:
 
 ![a](https://github.com/sana7867/MachineSalle/assets/147515885/8a9c5fd5-e168-4a13-ae1b-5054f335e1b2)
 
 
-
-
-![Capture d’écran 2023-10-23 173334](https://github.com/sana7867/MachineSalle/assets/147515885/54006471-57df-47e2-9392-1a073715f788)
 
 
 
